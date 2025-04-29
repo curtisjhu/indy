@@ -1,2 +1,2 @@
-# INDY - (INtelligent Distributed Yapper)
+# LINDA - (Lazy INtelligent Distributed Agents)
 
