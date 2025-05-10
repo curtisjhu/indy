@@ -1,1 +1,4 @@
 alpaca-py
+flask
+matplotlib
+numpy
