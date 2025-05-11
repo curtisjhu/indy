@@ -11,25 +11,8 @@ While most of this was built from first principles ground up, some the resulting
 [https://linda-1022869032774.us-central1.run.app](https://linda-1022869032774.us-central1.run.app)
 
 ## Project Directory Structure
-
-```
-├── Dockerfile
-├── README.md
-├── engine/
-│   ├── pom.xml
-│   ├── README.md
-│   ├── src/
-│   │   ├── main/
-│   │   │   └── java/
-│   │   │       └── com/
-├── pengine/
-│   ├── engine.py
-│   ├── helper.py
-│   ├── main.py
-│   ├── requirements.txt
-│   ├── server.py
-│   └── strategies/
-│       ├── AbstractStrategy.py
-├── research/
-│   ├── cnf/
-```
+Subservers
+- `pengine/account` - updates account activity
+- `pengine/crypto` - crypto streaming and strategies
+- `pengine/stock` - stock streaming and strategies
+- `pengine/server` - public facing server displaying details
