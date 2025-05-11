@@ -1,8 +1,7 @@
 # LINDA - (Lazy INtelligent Distributed Agents)
 Currently, this is just a trading engine.
-We use Alpaca API to source market data and submit trades.
-We also use regular old research into various datasets to find patterns and predictable trends in data.
-We write these strategies and the engine runs indefinitely.
+- We use Alpaca API, Schwab API to source market data and submit trades.
+- Currently using Conditional Normalizing Flows to predict some market trends
 
 The hope is that we will eventually transition over to using AI agents to source these trends for us.
 
