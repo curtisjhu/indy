@@ -112,7 +112,6 @@ def home():
 					</tbody>
 				</table>
 			</div>
-            <img src="data:image/png;base64,{{ plot_url }}" alt="Portfolio Distribution">
 
             <p>
                 This is not all of my money of course.
