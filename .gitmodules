@@ -1,0 +1,12 @@
+[submodule "pengine/account"]
+	path = pengine/account
+	url = https://github.com/curtisjhu/linda-account
+[submodule "pengine/crypto"]
+	path = pengine/crypto
+	url = https://github.com/curtisjhu/linda-crypto
+[submodule "pengine/stock"]
+	path = pengine/stock
+	url = https://github.com/curtisjhu/linda-stock
+[submodule "pengine/server"]
+	path = pengine/server
+	url = https://github.com/curtisjhu/linda-server
