@@ -8,7 +8,7 @@ The hope is that we will eventually transition over to using AI agents to source
 ## Getting Started
 While most of this was built from first principles ground up, some the resulting fruit can be seen deployed from Google Cloud Batch Run
 
-[https://linda-1022869032774.us-central1.run.app](https://linda-1022869032774.us-central1.run.app)
+[linda.funnyscar.com](https://linda.funnyscar.com)
 
 ## Project Directory Structure
 Subservers
